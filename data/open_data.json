@@ -7,7 +7,7 @@
             "ref": "https://github.com/miraj00/AnimalAPI/1.json",
             "name": "Dog",
             "description": "Dog are loving animals",
-            "photo": "https://github.com/miraj00/AnimalAPI/images/dog.jpg",
+            "photo": "https://github.com/miraj00/AnimalAPI/data/dog.jpg",
             "photo_attribution": "https://as2.ftcdn.net/v2/jpg/00/40/41/59/1000_F_40415982_v0Z17uaeDwEYIPouQzinlYbrggnbgPMS.jpg"
         },
         {
@@ -15,7 +15,7 @@
             "ref": "https://github.com/miraj00/AnimalAPI/2.json",
             "name": "Cat",
             "description": "Cats are shy and active animals",
-            "photo": "https://github.com/miraj00/AnimalAPI/images/cat.jpg",
+            "photo": "https://github.com/miraj00/AnimalAPI/data/cat.jpg",
             "photo_attribution": "https://as1.ftcdn.net/v2/jpg/02/95/94/94/1000_F_295949484_8BrlWkTrPXTYzgMn3UebDl1O13PcVNMU.jpg"
         },
         {
@@ -23,7 +23,7 @@
             "ref": "https://github.com/miraj00/AnimalAPI/3.json",
             "name": "Lion",
             "description": "Lions are considered strongest animal in a jungle.",
-            "photo": "https://github.com/miraj00/AnimalAPI/images/lion.jpg",
+            "photo": "https://github.com/miraj00/AnimalAPI/data/lion.jpg",
             "photo_attribution": "https://as1.ftcdn.net/v2/jpg/01/75/80/74/1000_F_175807423_oAOEf2hxNKa7BCdLEuUBwnWoIsy0P3M3.jpg"
         },
         {
@@ -31,7 +31,7 @@
             "ref": "https://github.com/miraj00/AnimalAPI/4.json",
             "name": "Elephant",
             "description": "Elephants are tallest and heaviest animal in safari.",
-            "photo": "https://github.com/miraj00/AnimalAPI/images/elephant.jpg",
+            "photo": "https://github.com/miraj00/AnimalAPI/data/elephant.jpg",
             "photo_attribution": "https://as1.ftcdn.net/v2/jpg/04/82/73/92/1000_F_482739250_ORtjMtBOhPf7DTqXPadS54DVPUc8HkOD.jpg"
         },
         {
@@ -39,7 +39,7 @@
             "ref": "https://github.com/miraj00/AnimalAPI/5.json",
             "name": "Zebra",
             "description": "Zebra has white and black strips all over body in designated fashion.",
-            "photo": "https://github.com/miraj00/AnimalAPI/images/zebra.jpg",
+            "photo": "https://github.com/miraj00/AnimalAPI/data/zebra.jpg",
             "photo_attribution": "https://as1.ftcdn.net/v2/jpg/02/39/30/62/1000_F_239306279_IxjHFmdXaTvpfnaOsBtXrWg1o1Dp9P9H.jpg"
         },
         {
@@ -47,7 +47,7 @@
             "ref": "https://github.com/miraj00/AnimalAPI/6.json",
             "name": "Cow",
             "description": "Cows eat grass and produce milk. The milk gets used in creating cheese, butter and much more milk products",
-            "photo": "https://github.com/miraj00/AnimalAPI/images/cow.jpg",
+            "photo": "https://github.com/miraj00/AnimalAPI/data/cow.jpg",
             "photo_attribution": "https://as2.ftcdn.net/v2/jpg/01/70/07/17/1000_F_170071737_UINsB1OZihE4R1S94mKfXEFtkIpw2cUM.jpg"
         },
         {
@@ -55,7 +55,7 @@
             "ref": "https://github.com/miraj00/AnimalAPI/7.json",
             "name": "Horse",
             "description": "Horse can run at the speed of car. They never sit down and stay standing for the whole life",
-            "photo": "https://github.com/miraj00/AnimalAPI/images/horse.jpg",
+            "photo": "https://github.com/miraj00/AnimalAPI/data/horse.jpg",
             "photo_attribution": "https://as1.ftcdn.net/v2/jpg/01/96/05/66/1000_F_196056673_Q5gpy32ZSCr6XZO2WZSJ3wjIKhfM6QxN.jpg"
         },
         {
@@ -63,7 +63,7 @@
             "ref": "https://github.com/miraj00/AnimalAPI/8.json",
             "name": "Tiger",
             "description": "Tigers are aggresive animals. They are mostly found in jungles filled with lots of green plants and trees",
-            "photo": "https://github.com/miraj00/AnimalAPI/images/tiger.jpg",
+            "photo": "https://github.com/miraj00/AnimalAPI/data/tiger.jpg",
             "photo_attribution": "https://as2.ftcdn.net/v2/jpg/02/17/63/97/1000_F_217639719_SxjxC4qyRoJQJdwmWtgQrvzTUX0SF3HY.jpg"
         }
     ]
