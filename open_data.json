@@ -28,6 +28,7 @@
             "id": 4,
             "ref": "https://github.com/miraj00/AnimalAPI/results/4.json",
             "name": "Elephant",
+            "description": "Elephants are tallest and heaviest animal in safari.",
             "photo": "https://github.com/miraj00/AnimalAPI/images/elephant.jpg",
             "photo_attribution": "https://as1.ftcdn.net/v2/jpg/04/82/73/92/1000_F_482739250_ORtjMtBOhPf7DTqXPadS54DVPUc8HkOD.jpg"
         },
@@ -35,6 +36,7 @@
             "id": 5,
             "ref": "https://github.com/miraj00/AnimalAPI/results/5.json",
             "name": "Zebra",
+            "description": "Zebra has white and black strips all over body in designated fashion.",
             "photo": "https://github.com/miraj00/AnimalAPI/images/zebra.jpg",
             "photo_attribution": "https://as1.ftcdn.net/v2/jpg/02/39/30/62/1000_F_239306279_IxjHFmdXaTvpfnaOsBtXrWg1o1Dp9P9H.jpg"
         },
@@ -42,6 +44,7 @@
             "id": 6,
             "ref": "https://github.com/miraj00/AnimalAPI/results/6.json",
             "name": "Cow",
+            "description": "Cows eat grass and produce milk. The milk gets used in creating cheese, butter and much more milk products",
             "photo": "https://github.com/miraj00/AnimalAPI/images/cow.jpg",
             "photo_attribution": "https://as2.ftcdn.net/v2/jpg/01/70/07/17/1000_F_170071737_UINsB1OZihE4R1S94mKfXEFtkIpw2cUM.jpg"
         },
@@ -49,6 +52,7 @@
             "id": 7,
             "ref": "https://github.com/miraj00/AnimalAPI/results/7.json",
             "name": "Horse",
+            "description": "Horse can run at the speed of car. They never sit down and stay standing for the whole life",
             "photo": "https://github.com/miraj00/AnimalAPI/images/horse.jpg",
             "photo_attribution": "https://as1.ftcdn.net/v2/jpg/01/96/05/66/1000_F_196056673_Q5gpy32ZSCr6XZO2WZSJ3wjIKhfM6QxN.jpg"
         },
@@ -56,6 +60,7 @@
             "id": 8,
             "ref": "https://github.com/miraj00/AnimalAPI/results/7.json",
             "name": "Tiger",
+            "description": "Tigers are aggresive animals. They are mostly found in jungles filled with lots of green plants and trees",
             "photo": "https://github.com/miraj00/AnimalAPI/images/tiger.jpg",
             "photo_attribution": "https://as2.ftcdn.net/v2/jpg/02/17/63/97/1000_F_217639719_SxjxC4qyRoJQJdwmWtgQrvzTUX0SF3HY.jpg"
         }
