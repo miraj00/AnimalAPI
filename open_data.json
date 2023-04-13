@@ -1,8 +1,10 @@
 {
+    
+    "count": 8,
     "results": [
         {
             "id": 1,
-            "ref": "https://github.com/miraj00/AnimalAPI/results/1.json",
+            "ref": "https://github.com/miraj00/AnimalAPI/1.json",
             "name": "Dog",
             "description": "Dog are loving animals",
             "photo": "https://github.com/miraj00/AnimalAPI/images/dog.jpg",
@@ -10,7 +12,7 @@
         },
         {
             "id": 2,
-            "ref": "https://github.com/miraj00/AnimalAPI/results/2.json",
+            "ref": "https://github.com/miraj00/AnimalAPI/2.json",
             "name": "Cat",
             "description": "Cats are shy and active animals",
             "photo": "https://github.com/miraj00/AnimalAPI/images/cat.jpg",
@@ -18,7 +20,7 @@
         },
         {
             "id": 3,
-            "ref": "https://github.com/miraj00/AnimalAPI/results/3.json",
+            "ref": "https://github.com/miraj00/AnimalAPI/3.json",
             "name": "Lion",
             "description": "Lions are considered strongest animal in a jungle.",
             "photo": "https://github.com/miraj00/AnimalAPI/images/lion.jpg",
@@ -26,7 +28,7 @@
         },
         {
             "id": 4,
-            "ref": "https://github.com/miraj00/AnimalAPI/results/4.json",
+            "ref": "https://github.com/miraj00/AnimalAPI/4.json",
             "name": "Elephant",
             "description": "Elephants are tallest and heaviest animal in safari.",
             "photo": "https://github.com/miraj00/AnimalAPI/images/elephant.jpg",
@@ -34,7 +36,7 @@
         },
         {
             "id": 5,
-            "ref": "https://github.com/miraj00/AnimalAPI/results/5.json",
+            "ref": "https://github.com/miraj00/AnimalAPI/5.json",
             "name": "Zebra",
             "description": "Zebra has white and black strips all over body in designated fashion.",
             "photo": "https://github.com/miraj00/AnimalAPI/images/zebra.jpg",
@@ -42,7 +44,7 @@
         },
         {
             "id": 6,
-            "ref": "https://github.com/miraj00/AnimalAPI/results/6.json",
+            "ref": "https://github.com/miraj00/AnimalAPI/6.json",
             "name": "Cow",
             "description": "Cows eat grass and produce milk. The milk gets used in creating cheese, butter and much more milk products",
             "photo": "https://github.com/miraj00/AnimalAPI/images/cow.jpg",
@@ -50,7 +52,7 @@
         },
         {
             "id": 7,
-            "ref": "https://github.com/miraj00/AnimalAPI/results/7.json",
+            "ref": "https://github.com/miraj00/AnimalAPI/7.json",
             "name": "Horse",
             "description": "Horse can run at the speed of car. They never sit down and stay standing for the whole life",
             "photo": "https://github.com/miraj00/AnimalAPI/images/horse.jpg",
@@ -58,7 +60,7 @@
         },
         {
             "id": 8,
-            "ref": "https://github.com/miraj00/AnimalAPI/results/7.json",
+            "ref": "https://github.com/miraj00/AnimalAPI/8.json",
             "name": "Tiger",
             "description": "Tigers are aggresive animals. They are mostly found in jungles filled with lots of green plants and trees",
             "photo": "https://github.com/miraj00/AnimalAPI/images/tiger.jpg",
