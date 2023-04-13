@@ -1,1 +1,18 @@
-<p>Hello World</p>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Animal page</title>
+</head>
+<body>
+<script>
+    fetch("open_data.json")
+        .then(response => response.json())
+        .then(data => {
+            console.log(data)
+            
+        })
+</script>
+
+
+</body>
+</html>
